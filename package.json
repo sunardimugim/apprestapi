@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "create apprestapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunardimugim/apprestapi.git"
+  },
+  "keywords": [
+    "restapi",
+    "node.js"
+  ],
+  "author": "sunardimugim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunardimugim/apprestapi/issues"
+  },
+  "homepage": "https://github.com/sunardimugim/apprestapi#readme"
+}
